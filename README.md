@@ -26,7 +26,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/Rahmanapyrr/flixster/blob/c2fb89378d92c0dd4b720c5d0cb8374008e1643a/flixster_vid.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with Android Studio Emulator Recorder.
 
 ## Notes
 
